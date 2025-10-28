@@ -42,7 +42,7 @@ education:
   - area: MEng Computer Science, Professional focus in Software Engineering
     institution: Namur University [UNamur] – Namur, Belgium
     date_start: 2025-09-01
-    date_end: Ongoing
+    date_end: 'Ongoing'
     summary: |
       The master's program helped me gain comprehensive knowledge in various areas of Software Engineering, with a focus on software design, development processes, machine learning, and project management.
     button:
