@@ -51,7 +51,7 @@ education:
   - area: Pre MEng Compute Science
     institution: Namur University [UNamur] – Namur, Belgium
     date_start: 2024-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       To gain access to the master's program after completing my bachelor's degree, I had to undertake an additional year of study to deepen my knowledge in mathematics, analysis, and scientific research.
   - area: BSc Computer Science - Application Development orientation
