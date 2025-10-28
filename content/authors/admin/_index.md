@@ -1,46 +1,42 @@
 ---
 # Display name
-title: 吳健雄
+title: Hugo Raskin
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hugo
+last_name: Raskin
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Computer Science student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: UNamur
+    url: https://unamur.be/fr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:raskin.hugo@yahoo.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hraskin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/hugo-raskin-it/
 
 education:
   - area: PhD Artificial Intelligence
