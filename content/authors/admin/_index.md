@@ -39,60 +39,87 @@ profiles:
     url: https://www.linkedin.com/in/hugo-raskin-it/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Computer Science, Professional focus in Software Engineering
+    institution: Namur University [UNamur] – Namur, Belgium
+    date_start: 2025-09-01
+    date_end: Ongoing
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      The master's program helped me gain comprehensive knowledge in various areas of Software Engineering, with a focus on software design, development processes, machine learning, and project management.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Pre MEng Compute Science
+    institution: Namur University [UNamur] – Namur, Belgium
+    date_start: 2024-09-01
+    date_end: 2025-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      To gain access to the master's program after completing my bachelor's degree, I had to undertake an additional year of study to deepen my knowledge in mathematics, analysis, and scientific research.
+  - area: BSc Computer Science - Application Development orientation
+    institution: Haute Ecole Libre Mosane [HELMo] – Liège, Belgium
+    date_start: 2021-09-01
+    date_end: 2024-09-01
     summary: |
-      GPA: 3.4/4.0
+      Grade: Great distinction
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Based on practical experience, the bachelor's degree focuses on multi-technology projects, software development (mobile, web, etc.), system administration, security, and interaction with businesses.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Vice-President
+    company_name: CSLabs - Namur, Belgium
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2025-09-01
+    date_end: 'Ongoing'
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Investing myself further in the administration of the CSLabs.
+  - position: Project Administrator
+    company_name: CSLabs - Namur, Belgium
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-07-01
+    date_end: 2026-07-01
+    summary: |
+      I had the opportunity to invest myself further in CSLabs by being elected Project Administrator. This role allowed me to develop project management skills, including team coordination, understanding client needs, project delivery, and client relations.
+  - position: Member
+    company_name: CSLabs - Namur, Belgium
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 'Ongoing'
+    summary: |
+      At CSLabs, a Junior Enterprise in Namur, I had the opportunity to work on professional IT projects, attend Hackathons, training sessions, and conferences, enhancing my knowledge and skills.
+  - position: Research Trainee
+    company_name: UNamur - Namur, Belgium
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-07-01
+    date_end: '2025-07-31'
+    summary: |
+      Developing an open-source plugin to assess pull request quality during code reviews.
+  - position: Internship
+    company_name: EVS Broadcast Equipment - Liège, Belgium
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-04-01
+    date_end: '2024-07-01'
+    summary: |
+      I learned to collaborate effectively in a team while enhancing my skills in web development, particularly in backend services, continuous integration, resource management, and more.
+  - position: Project Manager / Developer / Tester
+    company_name: Salto Platform [HELMo] - Liège, Belgium
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: '2024-07-01'
+    summary: |
+      The Salto platform gave me the opportunity to approach all aspects of a project's lifecycle in an integrated manner, following an adapted methodology, and to develop an entrepreneurial mindset.
+  - position: Student job - Sales team
+    company_name: Lab9 Apple premium reseller - Liège, Belgium
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-12-01
+    date_end: 2023-01-01
+    summary: |
+      Sales and consulting on Apple products and services. Understanding and meeting customer needs while providing the best possible advice on products with their unique features.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
