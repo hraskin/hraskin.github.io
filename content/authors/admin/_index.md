@@ -42,7 +42,7 @@ education:
   - area: MEng Computer Science, Professional focus in Software Engineering
     institution: Namur University [UNamur] – Namur, Belgium
     date_start: 2025-09-01
-    date_end: 'Ongoing'
+    date_end: ''
     summary: |
       The master's program helped me gain comprehensive knowledge in various areas of Software Engineering, with a focus on software design, development processes, machine learning, and project management.
     button:
@@ -68,7 +68,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-09-01
-    date_end: 'Ongoing'
+    date_end: ''
     summary: |
       Investing myself further in the administration of the CSLabs.
   - position: Project Administrator
@@ -84,7 +84,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 'Ongoing'
+    date_end: ''
     summary: |
       At CSLabs, a Junior Enterprise in Namur, I had the opportunity to work on professional IT projects, attend Hackathons, training sessions, and conferences, enhancing my knowledge and skills.
   - position: Research Trainee
