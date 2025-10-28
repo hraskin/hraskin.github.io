@@ -92,7 +92,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-07-01
-    date_end: '2025-07-31'
+    date_end: 2025-07-31
     summary: |
       Developing an open-source plugin to assess pull request quality during code reviews.
   - position: Internship
@@ -100,7 +100,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-04-01
-    date_end: '2024-07-01'
+    date_end: 2024-07-01
     summary: |
       I learned to collaborate effectively in a team while enhancing my skills in web development, particularly in backend services, continuous integration, resource management, and more.
   - position: Project Manager / Developer / Tester
@@ -108,7 +108,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-09-01
-    date_end: '2024-07-01'
+    date_end: 2024-07-01
     summary: |
       The Salto platform gave me the opportunity to approach all aspects of a project's lifecycle in an integrated manner, following an adapted methodology, and to develop an entrepreneurial mindset.
   - position: Student job - Sales team
@@ -169,7 +169,7 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Top of the year 2024
-    date: '2024-11-01'
+    date: 2024-11-01
     awarder: ASBL Association Royale des Anciens Élèves de l’institut Sainte-Marie
 #    icon: brands/coursera
 #    summary: |
