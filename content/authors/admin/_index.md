@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/hugo-raskin-it/
 
 education:
-  - area: MEng Computer Science, Professional focus in Software Engineering
+  - area: MSc in Computer Science, Professional focus in Software Engineering
     institution: Namur University [UNamur] – Namur, Belgium
     date_start: 2025-09-01
     date_end: 
@@ -48,7 +48,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Pre MEng Compute Science
+  - area: Pre MSc in Compute Science
     institution: Namur University [UNamur] – Namur, Belgium
     date_start: 2024-09-01
     date_end: 2025-06-30
