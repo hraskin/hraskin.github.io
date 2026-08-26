@@ -2,115 +2,124 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Hugo Raskin
+  given: Hugo
+  family: Raskin
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+#  - PhD
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🚀"
+role: MSc Student in Computer Science · Software Engineering
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+ My name is Hugo Raskin, I am an MSc student in Computer Science at the University of Namur and a research trainee in the SNAIL team. My work focuses on Software Engineering and human-AI collaboration.
+ I am also the Vice-President of CSLabs Namur, a student-led organization that promotes computer science and software engineering through projects and events.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Namur
+    url: https://www.unamur.be/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:raskin.hugo@yahoo.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/hraskin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/hugo-raskin-it/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=AaUg7sAAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0003-0349-4720
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Software Engineering
+  - Software Maintainability
+  - Human-AI Collaboration
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Master's degree in Computer Science
+    institution: University of Namur
+    start: 2025-09-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Professional focus in Software Engineering.
+  - degree: Pre-Master's degree in Computer Science
+    institution: University of Namur
+    start: 2024-09-01
+    end: 2025-06-30
+  - degree: Bachelor's degree in Computer Science
+    institution: HELMo, Liège
+    start: 2021-09-01
+    end: 2024-06-30
+    summary: |
+      Application Development orientation. Thesis: "VIA-MAP: Waveforms and
+      Keyframes — How to Simplify Audio Editing."
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Student tutor
+    org: University of Namur
+    start: 2026-02-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Tutoring students in INFOB317 "Intelligence artificielle et programmation symbolique".
+  - role: Research Trainee
+    org: University of Namur
+    start: 2025-06-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Working as an research trainee in the SNAIL team (UNamur) on code review research.
+  - role: Member and Board Administrator
+    org: CSLabs Namur
+    start: 2024-01-01
+    summary: |
+      Invested in the student-led organization CSLabs Namur, first as a Project Manager / Developer, then serving as Project Administrator from July 2025 to July 2026 and as Vice-President from September 2025 to present.
+  - role: Software Development Intern
+    org: EVS Broadcast Equipment
+    start: 2024-01-01
+    end: 2024-12-31
+    summary: |
+      Extended EVS media editing capabilities with waveform visualization and keyframe editing tools.
+  - role: Developer & Project Manager
+    org: Salto Platform, HELMo
+    start: 2022-09-01
+    end: 2024-06-30
+    summary: |
+      Worked for real external clients; acted as project manager for one year.
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+# skills:
+#  - name: Technical Skills
+#    items:
+#      - label: Java
+#        level: 4
+#      - label: Python
+#        level: 4
+#      - label: C#
+#        level: 4
+#      - label: SQL
+#        level: 4
+#      - label: JavaScript
+#        level: 3
+#      - label: TypeScript
+#        level: 3
+#  - name: Databases
+#    items:
+#      - label: MySQL
+#        level: 4
+#      - label: PostgreSQL
+#        level: 4
+#      - label: SQLite
+#        level: 3
 
 languages:
-  - name: English
+  - name: French
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 3
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Top of the Year 2024
+    awarder: Royal Association (non-profit) of Former Students of the Sainte-Marie Institute
+    date: "2024-01-01"
     icon: hero/trophy
