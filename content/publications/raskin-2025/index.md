@@ -4,7 +4,7 @@ date: 2026-03-17
 publishDate: 2026-01-14
 authors:
   - Hugo Raskin
-  - xavier-devroey
+  - Xavier Devroey
   - Benoît Vanderose
 publication_types: ["paper-conference"]
 # 0 = Uncategorized
