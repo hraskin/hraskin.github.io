@@ -25,7 +25,7 @@ publication:
   issue: ""
   pages: ""
   publisher: "IEEE"
-doi: ""
+doi: "10.1109/SANER67736.2026.00122"
 
 tags:
 - Socio-Technical Factors
